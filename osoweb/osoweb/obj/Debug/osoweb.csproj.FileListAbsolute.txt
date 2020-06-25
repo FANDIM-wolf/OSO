@@ -1,0 +1,9 @@
+F:\DUNIX_kernel\osoweb\osoweb\bin\Debug\osoweb.exe.config
+F:\DUNIX_kernel\osoweb\osoweb\bin\Debug\osoweb.exe
+F:\DUNIX_kernel\osoweb\osoweb\bin\Debug\osoweb.pdb
+F:\DUNIX_kernel\osoweb\osoweb\obj\Debug\osoweb.csprojAssemblyReference.cache
+F:\DUNIX_kernel\osoweb\osoweb\obj\Debug\osoweb.Properties.Resources.resources
+F:\DUNIX_kernel\osoweb\osoweb\obj\Debug\osoweb.csproj.GenerateResource.cache
+F:\DUNIX_kernel\osoweb\osoweb\obj\Debug\osoweb.exe
+F:\DUNIX_kernel\osoweb\osoweb\obj\Debug\osoweb.pdb
+F:\DUNIX_kernel\osoweb\osoweb\obj\Debug\osoweb.Form1.resources
